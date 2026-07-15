@@ -41,7 +41,7 @@ To analyze Ola ride booking data using SQL and Power BI, identify key business t
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-5.png">Page-5</a>
 
 ## Project Findings 
-- <a href="">Project Findings</a>
+- <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Project%20Findings">Project Findings</a>
 
 ## Future Approach for Better Profitability
 - <a href="">Future Approach</a>
