@@ -23,3 +23,17 @@ To analyze Ola ride booking data using SQL and Power BI, identify key business t
 2. Vehicle Type
 - Top 5 Vehicle Types by Ride Distance
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-2.png">Page-2</a>
+
+3. Revenue
+-Revenue by Payment Method
+-Top 5 Customers by Total Booking Value
+-Ride Distance Distribution Per Day
+- <a href="">Page-2</a>
+
+
+
+
+
+
+
+
