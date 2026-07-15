@@ -25,10 +25,22 @@ To analyze Ola ride booking data using SQL and Power BI, identify key business t
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-2.png">Page-2</a>
 
 3. Revenue
--Revenue by Payment Method
--Top 5 Customers by Total Booking Value
--Ride Distance Distribution Per Day
-- <a href="">Page-2</a>
+- Revenue by Payment Method
+- Top 5 Customers by Total Booking Value
+- Ride Distance Distribution Per Day
+- <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-3.png">Page-3</a>
+
+4. Cancellation
+- Cancelled Rides Reasons (Customer)
+- Cancelled Rides Reasons(Drivers)
+- <a href="">Page-4</a>
+
+5. Ratings
+- Driver Ratings
+- Customer Rating
+- <a href="">Page-5</a>
+
+
 
 
 
