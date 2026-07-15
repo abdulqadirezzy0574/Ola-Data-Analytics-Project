@@ -1,0 +1,15 @@
+Analyzed 103,024 ride bookings to gain insights into booking trends and overall business performance.
+
+Found that the majority of rides were completed successfully, with an overall cancellation rate of 28.08%.
+
+Identified the key reasons behind customer and driver cancellations, helping highlight areas that require operational improvements.
+
+Observed that Cash and UPI were the most commonly used payment methods, showing a clear customer preference.
+
+Prime Sedan contributed the highest booking value, while E-Bike recorded the highest average ride distance among all vehicle types.
+
+Customer and driver ratings remained around 4.0, indicating a consistently good service experience across different ride categories.
+
+Developed an interactive Power BI dashboard to visualize bookings, revenue, cancellations, vehicle performance, and customer ratings in a single view.
+
+The insights from this project can help the business make data-driven decisions, improve customer satisfaction, reduce cancellations, and enhance overall operational efficiency.
