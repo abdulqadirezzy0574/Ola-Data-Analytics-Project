@@ -8,4 +8,4 @@ To analyze Ola ride booking data using SQL and Power BI, identify key business t
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Ola_Bookings.csv">Dataset</a>
 
 ## Questions KPI's
-- <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Analysis_Requirement_Questions">Dataset</a>
+- <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Analysis_Requirement_Questions">KPI's</a>
