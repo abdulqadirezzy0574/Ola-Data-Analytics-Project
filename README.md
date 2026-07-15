@@ -14,11 +14,12 @@ To analyze Ola ride booking data using SQL and Power BI, identify key business t
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/SQL%20Solutions.sql">Solution</a>
 
 ## Power Bi Dashboard
-###1. Overall
+1. Overall
 - Ride Volume Over Time
 - Booking Status Breakdow
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-1.png">Page-1</a>
 
-###2. Vehicle Type
+
+2. Vehicle Type
 - Top 5 Vehicle Types by Ride Distance
 - <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-2.png">Page-2</a>
