@@ -38,7 +38,7 @@ To analyze Ola ride booking data using SQL and Power BI, identify key business t
 5. Ratings
 - Driver Ratings
 - Customer Rating
-- <a href="">Page-5</a>
+- <a href="https://github.com/abdulqadirezzy0574/Ola-Data-Analytics-Project/blob/main/Dashboard%20Page-5.png">Page-5</a>
 
 
 
